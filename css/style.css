@@ -39,6 +39,10 @@ padding: 0;}
 .input-bar{
     width: 5rem;
 }
+.bnnr-search{
+    font-size: 2rem;
+
+}
 
 
 /* what are you looking for */
@@ -106,24 +110,17 @@ h3{
 
 /* our customer */
 
-.our-txt-head{
-    font-size: 1.25rem !important;
-    font-family: 'Open Sans','sans-serif';
+.our_cstm_text{
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.our_cstmr_heading{
+    font-family: 'Open-Sans' ,sans-serif;
+    font-size: 1.5rem !important;
     font-weight: 600;
-    color: #000000;
-    
-}
 
-
-.overview{
-    font-size: 1rem !important;
-    font-family: 'Open Sans','sans-serif';
-    color: #666666;
-}
-.review{
-    font-size: 2vw;
-    color: #666666;
-    font-family: 'Open Sans','sans-serif';
 }
 /*  */
 /* *****cities we operated****** */
