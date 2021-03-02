@@ -1,0 +1,59 @@
+@media only screen and (max-width: 1024px) {
+    .book_an_appointmnt{
+      font-size: 1.4rem;
+    }
+    .txt-hwt{
+        font-size: 0.7rem;
+    }
+    .card-titleh{
+        font-size: 1rem;
+    }
+  }
+
+
+  @media only screen and (max-width: 768px) {
+    .book_an_appointmnt{
+      font-size: 1.4rem;
+    }
+    .txt-hwt{
+        font-size: 1rem;
+    }
+    .card-titleh{
+        font-size: 1.5rem;
+        /* padding: 0.5rem !important; */
+    }
+    .info{
+        padding: 0.5rem !important;
+    }
+    h3{
+        font-size: 1.8rem !important;
+    }
+    .bnnr-search{
+        width: 15rem;
+        font-size: 1rem;
+    }
+    .banner__header{
+        font-size: 1.5rem;
+    }
+  }
+
+  @media only screen  and (max-width:470px){
+      .city{
+          font-size: 0.5rem !important;
+          margin-top: 0.1rem;
+      }
+      .city-icon{
+          font-size: 0.5rem ;
+      }
+      .bnnr-search{
+          width: 12rem !important;
+          font-size: 0.8rem !important;
+          height: 1rem !important;
+      }
+  }
+
+  @media only screen  and (max-width:400px){
+    .banner__header{
+        font-size: 1.3rem;
+    }
+}
