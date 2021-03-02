@@ -7,6 +7,28 @@ padding: 0;}
 
 /* fonts */
 
+.profile{
+    width: 2.5rem !important;
+    height: 2.5rem !important;
+    align-self: center;
+}
+
+#dropdownMenuButton{
+    width: 8rem;
+    font-family: 'Open-sans' sans-serif;
+    font-weight: 400;
+}
+#language{
+    font-family: 'Open-Sans',sans-serif;
+    font-weight: 600;
+    font-size: 1rem;
+}
+#english{
+    width: 8rem;
+}
+
+
+
 .banner__section {
     background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(../images/2856828.png);
     height: 50%;
@@ -23,10 +45,12 @@ padding: 0;}
     padding: 1.64rem;
     color: #fff;
 }
-
+.bnnr-search{
+    font-size: 1rem;
+}
 .banner_search{
     position: relative;
-    top: 10px;
+    top: 0.75rem;
     right: 3rem;
     font-size: 2rem;
 }
