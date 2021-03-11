@@ -33,11 +33,9 @@ padding: 0;}
     background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(../images/2856828.png);
     height: 50%;
     width: 100%;
-    /* object-fit: contain; */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    /* position: relative; */
     border: none;
 }
 #drp-down{
